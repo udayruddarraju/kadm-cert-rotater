@@ -13,4 +13,4 @@
 # Vscode files
 .vscode
 
-kadm-cert-rotate
+bin/*
